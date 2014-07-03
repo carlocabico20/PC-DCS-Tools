@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\bin\Debug\PC-DCS Tool No2.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\bin\Debug\PC-DCS Tool No2.exe
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\bin\Debug\PC-DCS Tool No2.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\bin\Debug\DxpSimpleAPI.dll
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\obj\Debug\PC_DCS_Tool_No2.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\obj\Debug\PC_DCS_Tool_No2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\obj\Debug\PC-DCS Tool No2.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\obj\Debug\PC-DCS Tool No2.exe
+c:\users\administrator\documents\visual studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\obj\Debug\PC-DCS Tool No2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No2\PC-DCS Tool No2\obj\Debug\PC-DCS Tool No2.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\CarloGitHub\PC-DCS Tool No2\PC-DCS Tool No2\PC-DCS Tool No2\bin\Debug\PC-DCS Tool No2.exe.config
+C:\Users\Administrator\Documents\GitHub\CarloGitHub\PC-DCS Tool No2\PC-DCS Tool No2\PC-DCS Tool No2\obj\Debug\PC-DCS Tool No2.exe
+C:\Users\Administrator\Documents\GitHub\CarloGitHub\PC-DCS Tool No2\PC-DCS Tool No2\PC-DCS Tool No2\obj\Debug\PC-DCS Tool No2.pdb

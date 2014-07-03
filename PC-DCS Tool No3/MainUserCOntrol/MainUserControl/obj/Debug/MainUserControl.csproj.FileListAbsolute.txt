@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\obj\Debug\MainUserControl.UserControl1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\obj\Debug\MainUserControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\bin\Debug\MainUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\bin\Debug\MainUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\bin\Debug\ButtonUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\bin\Debug\DxpSimpleAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\bin\Debug\ButtonUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\obj\Debug\MainUserControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\obj\Debug\MainUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\MainUserControl\MainUserControl\obj\Debug\MainUserControl.pdb

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\obj\Debug\PC_DCS_Tool_No3.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\obj\Debug\PC_DCS_Tool_No3.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\obj\Debug\PC-DCS Tool No3.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\bin\Debug\PC-DCS Tool No3.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\bin\Debug\PC-DCS Tool No3.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\bin\Debug\PC-DCS Tool No3.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\bin\Debug\ButtonUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\bin\Debug\DxpSimpleAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\bin\Debug\MainUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\bin\Debug\MainUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\bin\Debug\ButtonUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\obj\Debug\PC-DCS Tool No3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\obj\Debug\PC-DCS Tool No3.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PC-DCS Tool No3\PC-DCS Tool No3\obj\Debug\PC-DCS Tool No3.pdb

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\obj\Debug\ButtonUserControl.UserControl1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\obj\Debug\ButtonUserControl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\bin\Debug\ButtonUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\bin\Debug\ButtonUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\obj\Debug\ButtonUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\obj\Debug\ButtonUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\bin\Debug\DxpSimpleAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\bin\Debug\MainUserControl.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\bin\Debug\MainUserControl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ButtonUserControl\ButtonUserControl\obj\Debug\ButtonUserControl.csprojResolveAssemblyReference.cache
